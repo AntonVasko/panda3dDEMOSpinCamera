@@ -1,7 +1,7 @@
 # panda3dDEMOSpinCamera
 Simple example for students.
 glTF model took from https://sketchfab.com/3d-models/hand-painted-forest-8f52416156d24fefb577d6244d7aca7e 
-and make some midification into Blender 4.3.
+and make some modification into Blender 4.3.
 
 In code:
 1. Tasks (SpinCamera) from https://docs.panda3d.org/1.10/python/introduction/tutorial/controlling-the-camera
