@@ -22,7 +22,7 @@ class MyApp(ShowBase):
         # Включаем освещение
         self.render.setLight(self.sunlight_np)
 
-        mySound = self.loader.loadSfx("backSound.wav")
+        mySound = self.loader.loadSfx("backSound.mp3")
         
         self.scene = self.loader.loadModel("hand_painted_forest/1/scene.gltf") 
         
@@ -79,4 +79,5 @@ class MyApp(ShowBase):
 
 app = MyApp()
 app.run()
+
 
